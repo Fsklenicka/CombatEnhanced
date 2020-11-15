@@ -1,0 +1,13 @@
+{
+  "group": "tester",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tester:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "tester:titanium_ingot",
+    "count": 9
+  }
+}

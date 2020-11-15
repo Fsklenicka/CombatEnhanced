@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tester:blocks/titanium_ore",
+    "particle": "tester:blocks/titanium_ore"
+  }
+}

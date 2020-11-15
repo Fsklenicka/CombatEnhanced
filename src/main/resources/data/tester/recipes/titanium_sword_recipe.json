@@ -1,0 +1,24 @@
+{
+  "group": "tester",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "tester:titanium_ingot"
+    },
+    "1": {
+      "item": "tester:titanium_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tester:titanium_sword",
+    "count": 1
+  }
+}

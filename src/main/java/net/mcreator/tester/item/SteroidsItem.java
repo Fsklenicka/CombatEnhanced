@@ -11,13 +11,13 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.item.UseAction;
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.Food;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.LivingEntity;
 
 import net.mcreator.tester.procedures.SteroidsFoodEatenProcedure;
+import net.mcreator.tester.itemgroup.EnhancedcombatItemGroup;
 import net.mcreator.tester.TesterModElements;
 
 import java.util.Map;
@@ -37,7 +37,7 @@ public class SteroidsItem extends TesterModElements.ModElement {
 	}
 	public static class FoodItemCustom extends Item {
 		public FoodItemCustom() {
-			super(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(1).rarity(Rarity.EPIC)
+			super(new Item.Properties().group(EnhancedcombatItemGroup.tab).maxStackSize(1).rarity(Rarity.EPIC)
 					.food((new Food.Builder()).hunger(15).saturation(2.9f).setAlwaysEdible().build()));
 			setRegistryName("steroids");
 		}

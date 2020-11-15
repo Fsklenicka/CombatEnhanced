@@ -224,6 +224,201 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "the_deep_mines"
+    },
+    {
+      "name": "TitaniumIngot",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ingot"
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore"
+    },
+    {
+      "name": "TitaniumBlock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_block"
+    },
+    {
+      "name": "TitaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore_block_recipe"
+    },
+    {
+      "name": "TitaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_block_ore_recipe"
+    },
+    {
+      "name": "TitaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_ore_smelting"
+    },
+    {
+      "name": "TitaniumPickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_pickaxe"
+    },
+    {
+      "name": "TitaniumAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_axe"
+    },
+    {
+      "name": "TitaniumSword",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_sword"
+    },
+    {
+      "name": "TitaniumShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_shovel"
+    },
+    {
+      "name": "TitaniumHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_hoe"
+    },
+    {
+      "name": "TitaniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_pickaxe_recipe"
+    },
+    {
+      "name": "TitaniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_axe_recipe"
+    },
+    {
+      "name": "TitaniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_sword_recipe"
+    },
+    {
+      "name": "TitaniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_shovel_recipe"
+    },
+    {
+      "name": "TitaniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_hoe_recipe"
+    },
+    {
+      "name": "TitaniumArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TitaniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor_helmet_recipe"
+    },
+    {
+      "name": "TitaniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor_body_recipe"
+    },
+    {
+      "name": "TitaniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor_leggings_recipe"
+    },
+    {
+      "name": "TitaniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titanium_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -232,18 +427,30 @@
     "en_us": {
       "block.tester.ambrosia": "Ambrosia",
       "item.tester.g_36": "G 3 6",
-      "item.tester.steel_ingot": "Steel Ingot",
       "item.tester.hardened_diamond_sword": "Hardened Diamond Sword",
-      "item.tester.bullet": "Bullet",
-      "item.tester.synthetic_diamond": "Synthetic Diamond",
+      "item.tester.titanium_hoe": "Titanium Hoe",
+      "item.tester.titanium_pickaxe": "Titanium Pickaxe",
       "itemGroup.tabenhancedcombat": "Enhancedcombat",
-      "item.tester.fine_steel_dust": "Fine Steel Dust",
+      "block.tester.titanium_block": "Block of Titanium",
       "item.tester.hardened_diamond": "Hardened Diamond",
-      "item.tester.steroids": "Steroids",
+      "item.tester.titanium_armor_boots": "Titanium Boots",
       "item.tester.the_deep_mines": "The Deep Mines Portal Igniter",
+      "item.tester.steroids": "Steroids",
+      "item.tester.titanium_axe": "Titanium Axe",
+      "item.tester.steel_sword": "Steel Sword",
+      "item.tester.titanium_armor_leggings": "Titanium Leggings",
+      "item.tester.titanium_armor_helmet": "Titanium Helmet",
+      "item.tester.steel_ingot": "Steel Ingot",
+      "item.tester.bullet": "Bullet",
+      "item.tester.titanium_shovel": "Titanium Shovel",
+      "item.tester.synthetic_diamond": "Synthetic Diamond",
+      "item.tester.titanium_armor_chestplate": "Titanium Chestplate",
+      "item.tester.fine_steel_dust": "Fine Steel Dust",
+      "block.tester.titanium_ore": "Titanium Ore",
       "item.tester.empty_syringe": "Empty Syringe",
+      "item.tester.titanium_ingot": "Titanium",
       "item.tester.hammer": "Hammer",
-      "item.tester.steel_sword": "Steel Sword"
+      "item.tester.titanium_sword": "Titanium Sword"
     }
   },
   "workspaceSettings": {

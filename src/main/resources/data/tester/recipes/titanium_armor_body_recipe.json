@@ -1,0 +1,39 @@
+{
+  "group": "tester",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tester:titanium_ingot"
+    },
+    "2": {
+      "item": "tester:titanium_ingot"
+    },
+    "3": {
+      "item": "tester:titanium_ingot"
+    },
+    "4": {
+      "item": "tester:titanium_ingot"
+    },
+    "5": {
+      "item": "tester:titanium_ingot"
+    },
+    "6": {
+      "item": "tester:titanium_ingot"
+    },
+    "7": {
+      "item": "tester:titanium_ingot"
+    },
+    "8": {
+      "item": "tester:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "tester:titanium_armor_chestplate",
+    "count": 1
+  }
+}
