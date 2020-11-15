@@ -1,0 +1,12 @@
+{
+  "group": "tester",
+  "type": "minecraft:blasting",
+  "experience": 10,
+  "cookingtime": 350,
+  "ingredient": {
+    "item": "tester:fine_steel_dust"
+  },
+  "result": {
+    "item": "tester:steel_ingot"
+  }
+}

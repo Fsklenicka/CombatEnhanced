@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "tester:blocks/ambrosiabase",
+    "particle": "tester:blocks/ambrosiabase"
+  }
+}

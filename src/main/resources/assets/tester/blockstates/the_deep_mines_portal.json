@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "tester:block/the_deep_mines_portal_ew"
+    },
+    "axis=x": {
+      "model": "tester:block/the_deep_mines_portal_ns"
+    }
+  }
+}

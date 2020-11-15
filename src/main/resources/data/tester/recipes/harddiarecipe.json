@@ -1,0 +1,12 @@
+{
+  "group": "tester",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 1000,
+  "ingredient": {
+    "item": "tester:synthetic_diamond"
+  },
+  "result": {
+    "item": "tester:hardened_diamond"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "tester",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "tester:hammer"
+    },
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result": {
+    "item": "tester:fine_steel_dust",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "group": "tester",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_apple"
+    },
+    {
+      "item": "tester:ambrosia"
+    },
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "tester:empty_syringe"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    }
+  ],
+  "result": {
+    "item": "tester:steroids",
+    "count": 1
+  }
+}

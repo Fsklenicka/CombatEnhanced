@@ -1,0 +1,26 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "harddiasword",
+    "customModelName": "Normal",
+    "name": "Hardened Diamond Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Enhancedcombat"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 10.0,
+    "attackSpeed": 2.0,
+    "enchantability": 2,
+    "damageVsEntity": 7.0,
+    "usageCount": 2150,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

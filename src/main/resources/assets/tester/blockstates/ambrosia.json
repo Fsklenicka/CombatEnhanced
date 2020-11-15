@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "tester:block/ambrosia"
+    },
+    "half=lower": {
+      "model": "tester:block/ambrosia_bottom"
+    }
+  }
+}
