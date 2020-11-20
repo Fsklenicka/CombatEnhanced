@@ -419,6 +419,59 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "titanium_armor_boots_recipe"
+    },
+    {
+      "name": "Sandwich",
+      "type": "food",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sandwich"
+    },
+    {
+      "name": "Sandwichrecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sandwichrecipe"
+    },
+    {
+      "name": "HulksBloodPotionStartedapplied",
+      "type": "procedure",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hulks_blood_potion_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HulksPotion",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hulks_potion"
+    },
+    {
+      "name": "Hulkov",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hulkov"
     }
   ],
   "variable_elements": [],
@@ -445,6 +498,8 @@
       "item.tester.titanium_shovel": "Titanium Shovel",
       "item.tester.synthetic_diamond": "Synthetic Diamond",
       "item.tester.titanium_armor_chestplate": "Titanium Chestplate",
+      "item.tester.sandwich": "Sandwich",
+      "item.tester.hulks_potion": "Hulks Potion",
       "item.tester.fine_steel_dust": "Fine Steel Dust",
       "block.tester.titanium_ore": "Titanium Ore",
       "item.tester.empty_syringe": "Empty Syringe",

@@ -1,0 +1,22 @@
+{
+  "group": "tester",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sunflower"
+    },
+    {
+      "item": "tester:steroids"
+    },
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "minecraft:golden_apple"
+    }
+  ],
+  "result": {
+    "item": "tester:hulks_potion",
+    "count": 1
+  }
+}
